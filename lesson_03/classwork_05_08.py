@@ -22,5 +22,5 @@ print(my_slice[::-1])
 """
 
 square_size = 12
-
 new_list = [square_size * 4, square_size ** 2, sqrt(2 * square_size ** 2)]
+print(new_list)
